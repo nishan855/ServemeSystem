@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033058990174",
+    "firebase_url": "https://servemr-f848c.firebaseio.com",
+    "project_id": "servemr-f848c",
+    "storage_bucket": "servemr-f848c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033058990174:android:da8b5a5ccf119ced459ccf",
+        "android_client_info": {
+          "package_name": "com.example.servemr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033058990174-ab97il0gt4g7dlbrtc8ik0q6mciqutch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.servemr",
+            "certificate_hash": "65164bc5b8e2d682bc96de30b1b456817c0289bb"
+          }
+        },
+        {
+          "client_id": "1033058990174-sdeqilcg91hnt9dig6gaes848bd91nm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BvGW-AD0PDmfQC_U_bPuwdTMx0vmi7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033058990174-sdeqilcg91hnt9dig6gaes848bd91nm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

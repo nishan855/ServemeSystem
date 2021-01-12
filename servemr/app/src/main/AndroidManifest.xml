@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.servemr">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".cvHistory"></activity>
+        <activity android:name=".chistory" />
+        <activity android:name=".pay" />
+        <activity android:name=".cSearch" />
+        <activity android:name=".bid" />
+        <activity android:name=".view_bid" />
+        <activity android:name=".adapter_own" />
+        <activity android:name=".ven_dash" />
+        <activity android:name=".customer_dashboard" />
+        <activity android:name=".vendor_home" />
+        <activity android:name=".place" />
+        <activity
+            android:name=".update"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".vendorregistration" />
+        <activity android:name=".customerregistration" />
+        <activity android:name=".vendorlogin" />
+        <activity android:name=".custlinActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">servemr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="services">Services</string>
+    <string name="place_service_call">Place Service Call</string>
+    <string name="change_date">Change Date</string>
+    <string name="cancel_service_call">Cancel Service Call</string>
+    <string name="enter_search">Enter Search</string>
+    <string name="search">Search</string>
+    <string name="bids">Bids</string>
+    <string name="post">Post</string>
+    <string name="enter_bid">Enter bid...</string>
+</resources>
